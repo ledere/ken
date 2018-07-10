@@ -1,3 +1,4 @@
+#!/usr/local/bin/node
 var natural = require("natural");
 var path = require("path");
 
