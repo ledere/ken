@@ -1,0 +1,33 @@
+{
+  "name": "ken",
+  "version": "1.0.0",
+  "description": "The ken project attempts to create a smart bot that understands questions, can have meaningful conversation, and learns from asking feedback during conversation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledere/ken.git"
+  },
+  "keywords": [
+    "ken",
+    "nlp",
+    "chat",
+    "bot",
+    "talk",
+    "discussion",
+    "ai",
+    "learning"
+  ],
+  "author": "Frank Huffener",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ledere/ken/issues"
+  },
+  "homepage": "https://github.com/ledere/ken#readme",
+  "private": true,
+  "dependencies": {
+    "natural": "^0.6.1"
+  }
+}
